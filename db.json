@@ -1,39 +1,37 @@
 {
   "tokens": [
     {
-      "id": 1,
-      "name": "Boostern, Boostern, Boostern hiphip Hurra",
-      "description": "Antikörper sind nach Ansicht der Experten Wurst, und Ärzte sollten bestraft werden, die den Antikörpertest am Patienten vor der Impfung durchführen. 
-      ABER: 'Boostern muss sein'!
-      Es läuft alles auf die Fähigkeit hinaus, ALLES zu akzeptieren!",
+      "id": 28,
+      "name": "Der beste Detektiv",
+      "description": "Eine Eule, mit der man sich frühmorgens nicht anlegen sollte :D",
       "external_url": "https://example.com/?token_id=3",
-      "image": "ipfs://QmcdaHdLxXEUqPfxooEJRN5vwLdDC62YmUqBNUPxurYoaA",
+      "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
       "animation_url": null,
       "background_color": null,
       "attributes": [
         {
-          "trait_type": "Name",
-          "value": "Wolfgang Robert Mückstein"
+          "trait_type": "Gatung",
+          "value": "verrückter Kauz"
         },
         {
-          "trait_type": "Geboren",
-          "value": "5.Juni.1974 als Wiener Arschloch"
+          "trait_type": "Befinden",
+          "value": "Immer genervt"
         },
         {
           "trait_type": "Job",
-          "value": "Unnützer Artzt, daher auch unfähiger Politiker"
+          "value": "Beobachten"
         },
         {
-          "trait_type": "Partei",
-          "value": "Grünen (Was sonst!)"
+          "trait_type": "Geboren",
+          "value": "Geheimnisvoll"
         },
         {
-          "trait_type": "Beschäftigungsstatus",
-          "value": "Definitiv sehr befristet"
+          "trait_type": "Beschwoerungsstufe",
+          "value": "Generation0"
         },
         {
-          "trait_type": "Arbeitszeiten",
-          "value": "Weis man nicht genau"
+          "trait_type": "Beschworene Mitarbeiter",
+          "value": "17"
         },
         {
       "display_type": "boost_percentage", 
@@ -52,18 +50,8 @@
     }, 
         {
           "display_type": "number",
-          "trait_type": "Vertrauenswürdig",
-          "value": 30
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Bestechlich",
-          "value": 92
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Verlogen",
-          "value": 100
+          "trait_type": "Version",
+          "value": 1
         }
       ]
     }
