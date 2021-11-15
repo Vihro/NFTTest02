@@ -53,9 +53,11 @@
           "trait_type": "Version",
           "value": 1
         }
-      ],
-      
-      
+      ]
+      },
+    
+    
+   {   
       "id": 1,
       "name": "Der beste Detektiv",
       "description": "Eine Eule, mit der man sich frühmorgens nicht anlegen sollte :D",
